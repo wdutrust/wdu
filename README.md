@@ -1,44 +1,49 @@
 # WDU Trust Token (WDU)
 
-WDU Trust (WDU) is a blockchain-based token designed to support transparency, trust, and community-driven development within the decentralized ecosystem.
+A clean and transparent ERC-20 token built on an Ethereum-compatible network.
+WDU Trust Token (WDU) is designed to provide a simple, standard, and fixed-supply
+digital asset suitable for community ecosystems, lightweight utilities,
+and educational blockchain environments.
 
-## Token Information
+🔹 Token Information
+Name: WDU Trust Token
+Symbol: WDU
+Decimals: 18
+Total Supply: 700,000,000,000,000 WDU
+Standard: ERC-20
+Network: Ethereum Compatible
 
-- **Token Name:** WDU Trust  
-- **Symbol:** WDU  
-- **Smart Contract Address:**  
-  `0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413`
-- **Initial Supply:** 700,000,000,000,000 WDU  
-- **Network:** Ethereum-compatible (ERC-20)
+🔹 Contract Features
+Fixed supply minted at deployment
+No minting
+No burning
+No taxes
+No blacklist / pause / owner privileges
+Clean, transparent, and fully verifiable code
 
-## About the Project
+🔹 Use Cases
+WDU Trust Token can be used in:
 
-WDU Trust aims to build a reliable and open ecosystem focused on long-term value, community engagement, and decentralized principles. The project emphasizes transparency, open-source development, and active communication with its community.
+Community reward systems
+Educational blockchain learning
+Mini-games and small experimental DApps
+Transparent digital interactions
 
-## Official Links
+🔹 Repository Contents
+/contracts – Source code of the WDU token
+/docs – Whitepaper and project documentation
+/assets – Logos and branding files
 
-- **Website:** https://www.trustwdu.com  
-- **GitHub:** https://github.com/wdutrust/wdu  
-- **Web App:** https://wdutrust.github.io/wdu/  
+🔹 License
+This project is released under the MIT License, allowing open use and modification.
 
-## Community & Social Media
+🔹 Disclaimer
+WDU Trust Token is a community project.
+It does not provide financial guarantees or investment promises.
+Users participate at their own responsibility.
 
-- **X (Twitter):** https://x.com/wdutrust  
-- **Telegram:** https://t.me/wdutrust  
-- **Reddit:** https://www.reddit.com/user/wdutrust/  
-- **Medium:** https://medium.com/@wdutrust.wdu  
-- **Bitcointalk:** wdutrust  
-- **Facebook:** Wdu Trust  
-
-## Contact
-
-- **Email:** wdu@trustwdu.com  
-- **Email (Backup):** wdutrust.wdu@gmail.com  
-
-## Disclaimer
-
-This repository is provided for informational and development purposes only. Nothing in this repository constitutes financial advice. Always do your own research (DYOR) before engaging with any blockchain or cryptocurrency project.
-
----
-
-© 2025 WDU Trust. All rights reserved.
+🔹 Links
+Website: www.trustwdu.com
+Etherscan: https://etherscan.io/address/0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413
+GitHub Repository: https://github.com/wdutrust/wdu
+Telegram: https://t.me/wdutrust
