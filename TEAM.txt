@@ -1,0 +1,14 @@
+Team – WDU Trust
+
+Founder & Project Maintainer:
+Afshari Tooran
+
+WDU Trust is an independently maintained blockchain project.
+The founder is responsible for smart contract deployment,
+documentation, and maintaining transparency across all public resources.
+
+The project follows an open-source and transparency-first approach.
+All smart contract data and technical resources are publicly verifiable
+via blockchain explorers and GitHub.
+
+This project is utility-focused and does not represent an investment entity.
