@@ -1,0 +1,50 @@
+WDU Trust – Team Information
+============================
+
+Project Owner & Founder
+-----------------------
+
+Name:
+woodi usimo
+
+Role:
+Founder and Project Owner of WDU Trust
+
+Responsibilities:
+- Smart contract deployment and verification
+- Project documentation and whitepaper authorship
+- Website content creation and maintenance
+- Ensuring transparency across all official project channels
+
+Professional Profile:
+https://www.linkedin.com/in/woodi-usimo-2937563a2/
+
+---
+
+Project Structure
+-----------------
+
+WDU Trust is an independently maintained blockchain project.
+
+The project does not operate under an anonymous team, DAO, foundation,
+or external company. All responsibilities and accountability rest with
+the publicly identifiable founder.
+
+There are no hidden owners, external controllers, or delegated
+management entities.
+
+---
+
+Transparency Statement
+----------------------
+
+All official information related to WDU Trust is published through
+verifiable public channels, including:
+
+- Official website
+- Public GitHub repository
+- Verified smart contract on BNB Smart Chain
+- Public professional profile of the founder
+
+This structure ensures compliance with transparency requirements
+commonly applied by blockchain explorers such as BscScan.
