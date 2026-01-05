@@ -112,7 +112,7 @@ The founder is responsible for:
 - **Reddit:** https://www.reddit.com/user/wdutrustwdu  
 - **Medium:** https://medium.com/@wdutrust.wdu  
 - **Facebook:** https://www.facebook.com/wdutrust  
-- **Bitcointalk:** https://bitcointalk.org/index.php?action=profile;u=wdutrust  
+- **Bitcointalk:** https://bitcointalk.org/index.php?topic=5570556.0
 
 All channels are used strictly for transparency,
 documentation, and educational communication.
