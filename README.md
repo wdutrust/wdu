@@ -1,49 +1,137 @@
 # WDU Trust Token (WDU)
 
-A clean and transparent ERC-20 token built on an Ethereum-compatible network.
-WDU Trust Token (WDU) is designed to provide a simple, standard, and fixed-supply
-digital asset suitable for community ecosystems, lightweight utilities,
-and educational blockchain environments.
+WDU Trust Token (WDU) is a fixed-supply BEP-20 utility token deployed on
+BNB Smart Chain (BSC).  
+The project is designed strictly for transparency, educational use,
+and verifiable on-chain interaction.
 
-🔹 Token Information
-Name: WDU Trust Token
-Symbol: WDU
-Decimals: 18
-Total Supply: 700,000,000,000,000 WDU
-Standard: ERC-20
-Network: Ethereum Compatible
+This repository is provided for public documentation and
+blockchain explorer verification purposes.
 
-🔹 Contract Features
-Fixed supply minted at deployment
-No minting
-No burning
-No taxes
-No blacklist / pause / owner privileges
-Clean, transparent, and fully verifiable code
+---
 
-🔹 Use Cases
-WDU Trust Token can be used in:
+## Token Information
 
-Community reward systems
-Educational blockchain learning
-Mini-games and small experimental DApps
-Transparent digital interactions
+- **Token Name:** WDU Trust Token  
+- **Symbol:** WDU  
+- **Standard:** BEP-20  
+- **Network:** BNB Smart Chain  
+- **Decimals:** 18  
+- **Total Supply:** 700,000,000,000,000 WDU (Fixed)  
+- **Contract Address:**  
+  `0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413`
 
-🔹 Repository Contents
-/contracts – Source code of the WDU token
-/docs – Whitepaper and project documentation
-/assets – Logos and branding files
+- **BscScan (Verified Contract):**  
+  https://bscscan.com/address/0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413
 
-🔹 License
-This project is released under the MIT License, allowing open use and modification.
+---
 
-🔹 Disclaimer
-WDU Trust Token is a community project.
-It does not provide financial guarantees or investment promises.
-Users participate at their own responsibility.
+## Smart Contract Properties
 
-🔹 Links
-Website: www.trustwdu.com
-Etherscan: https://etherscan.io/address/0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413
-GitHub Repository: https://github.com/wdutrust/wdu
-Telegram: https://t.me/wdutrust
+- Fixed supply created at deployment
+- No mint function
+- No burn function
+- No transaction fees or taxes
+- No blacklist or pause mechanism
+- No ownership override or admin control
+
+The smart contract is fully verified and immutable on BscScan.
+
+---
+
+## Token Purpose & Nature
+
+WDU Trust Token is **not an investment product**.
+
+The token was created exclusively for:
+- Educational blockchain demonstrations
+- Technical testing and learning environments
+- Transparent on-chain interaction examples
+
+The project does **not** involve:
+- ICO, IEO, IDO
+- Private or public token sales
+- Fundraising or investment activity
+- Profit expectation or financial promotion
+
+---
+
+## Token Supply & Holder Disclosure
+
+At the time of publication, 100% of the total token supply
+is held by the original deployment wallet used to deploy
+the smart contract.
+
+No tokens have been sold, distributed, or transferred
+as part of any fundraising or promotional activity.
+
+All token balances and movements are publicly verifiable
+on the blockchain.
+
+---
+
+## Project Ownership & Responsibility
+
+**Founder & Project Owner:**  
+woodi usimo
+
+**Professional Profile (LinkedIn):**  
+https://www.linkedin.com/in/woodi-usimo-2937563a2/
+
+The project is independently maintained by the founder.
+There is no anonymous team, DAO, foundation, or corporate entity.
+
+The founder is responsible for:
+- Smart contract deployment and verification
+- Accuracy of documentation and whitepaper
+- Website and GitHub repository maintenance
+- Management of all official communication channels
+
+---
+
+## Repository Structure
+
+- `/contracts` – Smart contract source code  
+- `/docs` – Whitepaper and project documentation  
+- `/assets` – Logos and branding files  
+
+---
+
+## Official Resources
+
+- **Website:** https://www.wdu-trust.com  
+- **Official Email:** wdu@wdu-trust.com  
+- **GitHub:** https://github.com/wdutrust/wdu  
+
+---
+
+## Social & Public Channels
+
+- **X (Twitter):** https://x.com/wdutrust  
+- **Telegram:** https://t.me/wdutrust  
+- **Reddit:** https://www.reddit.com/user/wdutrustwdu  
+- **Medium:** https://medium.com/@wdutrust.wdu  
+- **Facebook:** https://www.facebook.com/wdutrust  
+- **Bitcointalk:** https://bitcointalk.org/index.php?action=profile;u=wdutrust  
+
+All channels are used strictly for transparency,
+documentation, and educational communication.
+
+---
+
+## License
+
+This project is released under the MIT License.
+
+---
+
+## Disclaimer
+
+This repository and its contents are provided
+for informational and educational purposes only.
+
+Nothing herein constitutes financial advice,
+investment solicitation, or a promise of profit
+or future value.
+
+Use of the token is at the user's own responsibility.
