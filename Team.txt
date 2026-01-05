@@ -1,50 +1,32 @@
-WDU Trust – Team Information
-============================
 
-Project Owner & Founder
------------------------
+Team & Ownership
 
-Name:
+Project Ownership
+
+WDU Trust Token is an independently developed and maintained project with no centralized team, foundation, DAO, or anonymous contributors.
+
+Founder & Sole Project Owner:
 woodi usimo
 
-Role:
-Founder and Project Owner of WDU Trust
-
-Responsibilities:
-- Smart contract deployment and verification
-- Project documentation and whitepaper authorship
-- Website content creation and maintenance
-- Ensuring transparency across all official project channels
-
-Professional Profile:
+Professional Profile (LinkedIn):
 https://www.linkedin.com/in/woodi-usimo-2937563a2/
 
----
+The founder is publicly identifiable and assumes full responsibility for the smart contract deployment, website content, documentation, social channels, and all official project communications.
 
-Project Structure
------------------
+The LinkedIn profile is updated to reflect direct involvement as the sole owner and maintainer of the WDU Trust Token project, in line with blockchain explorer transparency and verification standards.
 
-WDU Trust is an independently maintained blockchain project.
+There are no additional team members, advisors, partners, or entities associated with the project.
 
-The project does not operate under an anonymous team, DAO, foundation,
-or external company. All responsibilities and accountability rest with
-the publicly identifiable founder.
+This structure ensures full accountability and verifiability, with no impersonation or misrepresentation of team involvement.
 
-There are no hidden owners, external controllers, or delegated
-management entities.
+Additional Ownership Clarification
 
----
+WDU Trust does not operate as a registered company, corporation, foundation, legal entity, or brand-controlled organization.
 
-Transparency Statement
-----------------------
+There is no legal entity, corporate structure, or third-party ownership associated with this project.
 
-All official information related to WDU Trust is published through
-verifiable public channels, including:
+All responsibility and accountability rest solely with the publicly identifiable founder.
 
-- Official website
-- Public GitHub repository
-- Verified smart contract on BNB Smart Chain
-- Public professional profile of the founder
+⬅ Back to Home
 
-This structure ensures compliance with transparency requirements
-commonly applied by blockchain explorers such as BscScan.
+© 2025 WDU Trust • Educational & Transparency Project • No Investment Claims
