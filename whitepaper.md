@@ -1,5 +1,4 @@
 WDU Trust Token (WDU)
-
 Official Expanded Whitepaper – Transparency-Focused BEP-20 Token on BNB Smart Chain
 
 Token Details
@@ -190,6 +189,24 @@ mekro deo – Technical Lead (with profiles listed above)
 btmb ani – Documentation Lead (with profiles listed above)
 
 Date: January 2026
+
+22. Ownership Verification – BscScan Verified Signature
+To ensure maximum transparency and to fully comply with blockchain explorer verification standards (including BscScan ownership and identity disclosure requirements), the ownership and deployment authority of the WDU Trust Token smart contract has been publicly verified using a cryptographically signed message.
+
+This verification method proves, in a mathematically and technically verifiable manner, that the same entity who deployed the smart contract also publicly claims ownership and full responsibility for the project, without revealing any private keys or sensitive personal data.
+
+Verified Signature ID: #15169
+Deployer / Owner Address: 0x059ca52a1436cc4e4d9f26a84eaafed462d0645e
+Signed Message:
+
+"I, woodi usimo, am the founder, sole owner, and original deployer of the WDU Trust Token (WDU), a strictly educational and immutable BEP-20 token deployed on BNB Smart Chain. Contract address: 0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413. Total supply: 700000000000000 (fixed forever). This cryptographic signature publicly proves my ownership, responsibility, and non-anonymous identity for transparency and verification purposes."
+
+BscScan Verification Record (Status: Verified):
+https://bscscan.com/verifySig/15169
+
+This record is permanently stored and independently verifiable on the BNB Smart Chain via BscScan. It cannot be altered, revoked, or forged, and serves as strong technical proof of ownership and accountability for this educational project.
+
+This verification further demonstrates that WDU Trust Token is operated with full transparency, clear authorship, and direct responsibility, in line with best practices for public blockchain documentation and compliance-focused disclosure.
 
 ⬅ Back to Home
 
