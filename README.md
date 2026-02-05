@@ -1,4 +1,5 @@
 # WDU Trust Token (WDU)
+*****************************
 
 WDU Trust Token (WDU) is a fixed-supply BEP-20 utility token deployed on
 BNB Smart Chain (BSC).
@@ -13,6 +14,7 @@ This repository is provided for public documentation and blockchain explorer ver
 ---
 
 ## Token Information
+*********************
 
 - **Token Name:** wdutrust  
 - **Symbol:** wdu  
