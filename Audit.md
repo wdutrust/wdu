@@ -1,5 +1,5 @@
 Audit & Security Report
-
+*********************************88
 
 WDU Trust Token (WDU) • BscScan-Verified & Transparent. This report is part of the project's commitment to maximum openness, detailing every aspect of the smart contract's security to allow independent verification and educational insights.
 
@@ -50,5 +50,6 @@ If needed, we can engage external auditors like Certik in the future, but the cu
 This audit confirms the token's non-financial nature. No mechanisms for yield, staking, or profits exist. The project is educational only, with no connections to investments, and all details are provided transparently to prevent any misinterpretation.
 
 ← Back to Home
+
 
 © 2026 WDU Trust • Secure & Transparent • No Financial Claims
