@@ -1,66 +1,60 @@
 # WDU Trust Token (WDU)
-*****************************
 
-WDU Trust Token (WDU) is a fixed-supply BEP-20 utility token deployed on
-BNB Smart Chain (BSC).
+**Fixed-Supply • Immutable • Verified BEP-20 on BNB Smart Chain**
 
-The project is designed strictly for transparency, educational use,
-and verifiable on-chain interaction. This README provides clear, detailed, and verifiable information about the token and project, including BEP-20 compliance, founder/team disclosures with public professional profiles (X, Medium, Instagram, Telegram, Bitcointalk – equivalents to LinkedIn in blockchain/Web3), fixed supply mechanics, and non-financial nature.
+---
 
-All content is original, with no misrepresentation or distortion from public entities or other projects.
+## Overview
 
-This repository is provided for public documentation and blockchain explorer verification purposes, ensuring full compliance with standards like BscScan's requirements for accessible project details, team transparency, and accurate information.
+WDU Trust Token (WDU) is a standard BEP-20 token deployed on the BNB Smart Chain mainnet.  
+It is designed strictly for **transparency**, **educational purposes**, and **public on-chain verification**.
+
+The contract is minimal, immutable, and fully verified on BscScan.
 
 ---
 
 ## Token Information
-*********************
 
-- **Token Name:** wdutrust  
-- **Symbol:** wdu  
-- **Standard:** BEP-20 (fully compliant with required functions and events)  
-- **Network:** BNB Smart Chain (BSC)  
-- **Decimals:** 18  
-- **Total Supply:** 700,000,000,000,000 wdu (700 trillion tokens, fixed and immutable)  
-- **Contract Address:**  
-  `0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413`
+| Parameter              | Value                                      |
+|------------------------|--------------------------------------------|
+| **Token Name**         | wdutrust                                   |
+| **Symbol**             | WDU                                        |
+| **Standard**           | BEP-20                                     |
+| **Network**            | BNB Smart Chain (BSC)                      |
+| **Decimals**           | 18                                         |
+| **Total Supply**       | 700,000,000,000,000 WDU (Fixed)            |
+| **Contract Address**   | `0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413` |
 
-- **BscScan (Verified Contract):**  
-  https://bscscan.com/address/0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413  
-  (source code verified on **2025-12-18**, matching deployed bytecode exactly) :contentReference[oaicite:1]{index=1}
-
-To verify: use BscScan's **Read Contract** tab and call `totalSupply()` – it always returns the fixed value above.
+**BscScan (Verified):**  
+[https://bscscan.com/token/0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413](https://bscscan.com/token/0x74D7d1aD19bD14655cD0Ab26BEcc57ED69d69413)  
+Source code verified on **18 December 2025**.
 
 ---
 
 ## Smart Contract Properties
 
-The smart contract is minimal and fully compliant with BEP-20 specifications:
+- Fixed supply minted only at deployment  
+- No mint function  
+- No burn function  
+- No transaction taxes or fees  
+- No pause / blacklist / freeze  
+- No upgradeable proxy  
+- Fully immutable logic  
 
-- Fixed supply created at deployment – `totalSupply()` is constant.
-- No mint function – no additional tokens can ever be created.
-- No burn function.
-- No transaction fees or taxes.
-- No blacklist or pause mechanism.
-- No ownership override or admin control.
-- No upgradeable proxy – contract is immutable forever.
-
-The contract is fully verified on BscScan and publicly auditable.
+Anyone can verify these properties by calling the public functions on BscScan → **Read Contract**.
 
 ---
 
-## Token Purpose & Nature
+## Project Nature
 
-WDU Trust Token is **not an investment product**.
+WDU Trust Token is **not** an investment product.
 
-It is created solely for:
+It exists solely for:
+- Educational demonstration of a pure BEP-20 implementation  
+- Transparent on-chain interaction examples  
+- Public verification and learning purposes  
 
-- Educational blockchain demonstrations  
-- Technical testing and learning environments  
-- Transparent on-chain interaction examples
-
-The project does **not** involve:
-
+The project does **not** include:
 - ICO / IEO / IDO  
 - Private or public token sales  
 - Fundraising  
@@ -68,103 +62,54 @@ The project does **not** involve:
 
 ---
 
-## Token Supply & Holder Disclosure
+## Supply & Distribution
 
-At the time of publication, **100% of the total token supply** is held by the original deployment wallet.
+At the time of this documentation, **100% of the total supply** is held in the original deployer wallet.
 
-This wallet belongs to the founder:
-
-**woodi usimo** :contentReference[oaicite:2]{index=2}
-
-No tokens have been sold or distributed as part of any fundraising or promotional activity.
-
-All balances and transfers are publicly verifiable on BscScan.
+All balances and transfers are permanently recorded and publicly viewable on BscScan.
 
 ---
 
-## Project Ownership & Responsibility
+## Project Ownership
 
-### Founder & Project Owner
+**Founder & Project Owner**  
 **woodi usimo**
 
-Role:
-- Original deployer  
-- Contract verifier  
-- Documentation maintainer  
-- Primary accountable party
-
----
-
-## Core Team Members (Non-Anonymous & Verifiable)
-
-### 1. mekro deo
-Role: Technical review and documentation support
-
-Profiles:
-- X (Twitter): https://x.com/mekrodeo  
-- Medium: https://medium.com/@mekrodeo  
-- Instagram: https://www.instagram.com/mekrodeo/  
-- Telegram: https://t.me/mekrodeo  
-- Facebook: https://www.facebook.com/profile.php?id=61585851915207  
-- Bitcointalk: https://bitcointalk.org/index.php?topic=5572528  
-- GitHub: https://github.com/mekrodeo/mekrodeo  
-- Email: mekrodeo@wdu-trust.com  
-
-### 2. btmb ani
-Role: Transparency and communication coordination
-
-Profiles:
-- X (Twitter): https://x.com/btmbani  
-- Medium: https://medium.com/@btmbani  
-- Instagram: https://www.instagram.com/btmbani/  
-- Telegram: https://t.me/btmbani  
-- Bitcointalk: https://bitcointalk.org/index.php?topic=5572530  
-- GitHub: https://github.com/btmbani/btmbani  
-- Email: btmbani@wdu-trust.com  
-
-All profiles are active and publicly verifiable. :contentReference[oaicite:3]{index=3}
-
----
-
-## Repository Structure
-
-- `/contracts` – Smart contract source code  
-- `/docs` – Whitepaper and documentation  
-- `/assets` – Logos and branding files  
+- Original contract deployer  
+- Source code verifier on BscScan  
+- Primary documentation maintainer  
+- Fully accountable party  
 
 ---
 
 ## Official Resources
 
-- **Website:** https://www.wdu-trust.com :contentReference[oaicite:4]{index=4}  
-- **Official Email:** wdu@wdu-trust.com :contentReference[oaicite:5]{index=5}  
-- **GitHub:** https://github.com/wdutrust/wdu :contentReference[oaicite:6]{index=6}  
+- **Website:** [https://quazenthor.com/wdu](https://quazenthor.com/wdu)  
+- **Official Email:** [admin-wdu@quazenthor.com](mailto:admin-wdu@quazenthor.com)  
+- **GitHub:** [https://github.com/wdutrust/wdu](https://github.com/wdutrust/wdu)  
 
 ---
 
-## Social & Public Channels
+## Social Channels
 
-- X (Twitter): https://x.com/wdutrust  
-- Telegram: https://t.me/wdutrust  
-- Medium: https://medium.com/@wdutrust.wdu  
-- Facebook: https://www.facebook.com/wdutrust  
-- Instagram: https://www.instagram.com/wdu.trustwdu/  
-- Bitcointalk: https://bitcointalk.org/index.php?topic=5570556.0  
-
-:contentReference[oaicite:7]{index=7}
+- **X (Twitter):** [https://x.com/wdutrust](https://x.com/wdutrust)  
+- **Telegram:** [https://t.me/wdutrust](https://t.me/wdutrust)  
+- **Medium:** [https://medium.com/@wdutrust.wdu](https://medium.com/@wdutrust.wdu)  
+- **Facebook:** [https://www.facebook.com/wdutrust](https://www.facebook.com/wdutrust)  
+- **Instagram:** [https://www.instagram.com/wdu.trustwdu/](https://www.instagram.com/wdu.trustwdu/)  
+- **Bitcointalk:** [https://bitcointalk.org/index.php?topic=5570556.0](https://bitcointalk.org/index.php?topic=5570556.0)  
 
 ---
 
 ## License
 
-MIT License – open for public inspection and educational use.
+MIT License – Open for public inspection and educational use.
 
 ---
 
 ## Disclaimer
 
-This project is provided for informational and educational purposes only.
+This project is provided for informational and educational purposes only.  
+It does not constitute financial advice, investment solicitation, or any promise of profit or future value.
 
-It does not constitute financial advice, investment solicitation, or a promise of profit or future value.
-
-Users should independently verify all information on BscScan.
+Always verify the contract address and all information independently on BscScan before interacting.
